@@ -1,7 +1,7 @@
 # NotFashion_ERP
 Enterprise Resource Planner, Inventory Module.\
 Products categorized by supplier, composition, model, colour and model size. \
-Product category mass create / uupdate stock. \
+Products category creator and stock update. \
 Search product stock by three categories ( Model, Colour and Size). \
 Manages orders and returns with multiple distribution centers,  stores , marketplaces and logistic operators. \
 Shopify orders mass input.
