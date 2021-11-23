@@ -10,8 +10,11 @@ Shopify orders mass input.
 ## RunTime Requirements
 
 - MariaDB 10+ \
-Requires user: ERP \
+
+Requires SQL user with privileges \
+user: ERP \
 password: AdminERP
+** change default password
 
 ## Compile Requirements
 
