@@ -1,6 +1,6 @@
 # NotFashion_ERP
 Enterprise Resource Planner, Inventory Module
-manages orders and returns with multiple distribution centers,  stores , marketplaces and logistic operators.
+manages orders and returns with multiple distribution centers,  stores , marketplaces and logistic operators. 
 
 ## RunTime Requirements
 
@@ -10,10 +10,10 @@ manages orders and returns with multiple distribution centers,  stores , marketp
 
 - Anaconda ( or Miniconda)
 - Python 3.8+
- - mysql.connector
- - pandas
- - tkinter
- - pyinstaller
+- mysql.connector
+- pandas
+- tkinter
+- pyinstaller
 
 pyinstaller --onefile ./ERP_Manager.py
 
