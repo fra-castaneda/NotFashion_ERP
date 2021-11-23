@@ -4,12 +4,12 @@ manages orders and returns with multiple distribution centers,  stores , marketp
 
 ## RunTime Requirements
 
--MariaDB 10+
+- MariaDB 10+
 
 ## Compile Requirements
 
--Anaconda ( or Miniconda)
--Python 3.8+
+- Anaconda ( or Miniconda)
+- Python 3.8+
  - mysql.connector
  - pandas
  - tkinter
