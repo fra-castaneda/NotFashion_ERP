@@ -15,6 +15,7 @@ manages orders and returns with multiple distribution centers,  stores , marketp
 - tkinter
 - pyinstaller
 
+
 pyinstaller --onefile ./ERP_Manager.py
 
 
